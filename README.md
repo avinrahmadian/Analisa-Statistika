@@ -34,6 +34,10 @@ Struktur algoritma terbagi kedalam 3 bagian yaitu:
 - Repeat : jika jumlah perulangan tidak diketahui dan minimal sekali dilakukan
 
 ## D. Fungsi Dan Prosedur
+Prosedur dan fungsi adalah sub-program modular (terpisah dari program utama) yang dirancang untuk menyelesaikan tugas spesifik, sehingga membuat kode lebih sederhana dan efisien karena dapat dipanggil berulang kali tanpa perlu ditulis ulang. Perbedaannya Sebagai berikut :
+Fungsi mengembalikan sebuah nilai (return value) agar bisa diolah kembali. <br>
+Prosedur hanya menjalankan aksi tanpa menghasilkan nilai balik. <br>
+
 ## E. Teladan
 - Misalkan akan dibuat algoritma kembalian uang dari suatu vending machine. Pecahan Uang yang tersedia pada mesin tersebut terdiri dari pecahan 10, 5, dan 1.
 - Untuk keperluan ini, kita akan menggunakan diagram alir untuk algoritmanya. Asumsi dalam algoritma ini adalah pecahan 10, 5, dan 1 yang tersedia di vending machine tidak terbatas.
