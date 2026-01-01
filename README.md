@@ -11,7 +11,7 @@ Program adalah kumpulan instruksi yang merupakan penyelesaian masalah dalam baha
 4. Output (Keluaran): Menghasilkan nol atau lebih hasil. <br>
 5. Effectiveness (Efektivitas): Langkah-langkah harus efektif, wajar dan dapat dikerjakan. <br>
 
-## B. Menggambar Algoritma
+## B. Menggambarkan Algoritma
 Untuk menuangkan ide penyelesaian masalah, terdapat beberapa notasi standar :
 1. Pseudocode: Deskripsi algoritma yang menyerupai kode program tapi lebih mudah dibaca manusia. <br>
 2. Flowchart (Diagram Alir): Representasi visual menggunakan simbol grafis untuk menunjukkan aliran proses dan logika keputusan. <br>
