@@ -30,10 +30,11 @@ Struktur algoritma terbagi kedalam 3 bagian yaitu:
 2. Pemilihan/percabangan: aksi hanya dijalankan jika syarat terpenuhi (if, if-else, case). <br>
 3. Perulangan (loop): instruksi dengan pola yang sama secara berulang-ulang (for, while, repeat). <br>
 - For : jika jumlah perulangan sudah diketahui
-- While : jika jumlah perulangan tidak diketahui dan mungkin
-tidak pernah ada
-- Repeat : jika jumlah perulangan tidak diketahui dan
-minimal sekali dilakukan
+- While : jika jumlah perulangan tidak diketahui dan mungkin tidak pernah ada
+- Repeat : jika jumlah perulangan tidak diketahui dan minimal sekali dilakukan
 
 ## D. Fungsi Dan Prosedur
 ## E. Teladan
+- Misalkan akan dibuat algoritma kembalian uang dari suatu vending machine. Pecahan Uang yang tersedia pada mesin tersebut terdiri dari pecahan 10, 5, dan 1.
+- Untuk keperluan ini, kita akan menggunakan diagram alir untuk algoritmanya. Asumsi dalam algoritma ini adalah pecahan 10, 5, dan 1 yang tersedia di vending machine tidak terbatas.
+
